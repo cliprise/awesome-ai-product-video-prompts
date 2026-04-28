@@ -26,6 +26,16 @@ This repository is built for e-commerce brands, Shopify sellers, Amazon sellers,
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Awesome AI product photography prompts](https://github.com/cliprise/awesome-ai-product-photography-prompts) - catalog, PDP, and marketplace still image prompt paths.
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI UGC video prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) - creator-native patterns with compliance-conscious structure.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is
 
 This repository is a practical prompt and workflow hub for users searching for:
