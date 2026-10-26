@@ -207,6 +207,7 @@ Restrictions: no fake text, no extra bottles, no logo distortion, no warped meta
 
 ## Image-to-video product formula
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 For real products, image-to-video is usually the safer workflow.
 
 ```text
